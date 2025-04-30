@@ -15,3 +15,5 @@
 |----------------|----------------------|---------------|
 | React          | Supabase(postgreSQL)   | TailwindCSS   |
 
+## Live Demo 👾 -> https://ratedle.vercel.app/
+
